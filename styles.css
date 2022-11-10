@@ -1,0 +1,8 @@
+body {
+  background-color: rgba(247, 150, 150, 0.274);
+}
+.grid {
+  height: 308px;
+  width: 400px;
+  border: 5px solid black;
+}
